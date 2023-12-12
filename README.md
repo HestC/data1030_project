@@ -17,7 +17,7 @@ The Gallup World Happiness Report ranks countries based on various factors contr
 - **Identify Influential Factors:** Analyze non-linear and linear relationships and factors influencing happiness levels.
 - **Enable Real-time Monitoring:** Implement a system for continuous monitoring of happiness trends.
 
-- **Data sourced from Kaggle https://www.kaggle.com/datasets/unsdsn/world-happiness.
+- Data sourced from Kaggle https://www.kaggle.com/datasets/unsdsn/world-happiness.
 
 
 ...
